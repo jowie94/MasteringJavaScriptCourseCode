@@ -1,0 +1,17 @@
+.showError {
+	background-color: red;
+	color: white;
+	font-family: Arial;
+	font-weight: bold;
+	border: 3px dotted black;
+	width: 400px;
+}
+			
+.clearError {
+	background-color: green;
+	color: white;
+	font-family: Arial;
+	font-weight: bold;
+	border: 3px solid yellow;
+	width: 400px;
+}
